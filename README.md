@@ -19,7 +19,6 @@ This repository is a comprehensive guide and resource for packaging Python GUI a
 4. [Packaging Process](#packaging-process)
 5. [Folder Structure](#folder-structure)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
@@ -93,11 +92,6 @@ Python-GUI-Installer-Toolkit/
 
 ## **Contributing**
 Contributions are welcome! If you have a packaging tip, a new tool to recommend, or a common issue to address, feel free to submit a pull request or open an issue.
-
----
-
-## **License**
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it as needed.
 
 ---
 
