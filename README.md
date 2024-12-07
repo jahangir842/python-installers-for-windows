@@ -16,6 +16,10 @@ This repository covers the following tools:
 
 ---
 
+https://www.youtube.com/watch?v=9GfIDdIxhuc
+
+---
+
 ## **Features**
 - Step-by-step guides for creating Windows installers.
 - Configuration examples for popular packaging tools like `PyInstaller`, `cx_Freeze`, and `Inno Setup`.
