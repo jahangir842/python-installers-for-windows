@@ -1,10 +1,3 @@
-### **Repository Name Suggestion**
-`Python-GUI-Installer-Toolkit`
-
----
-
-### **README File**
-
 # Python GUI Installer Toolkit
 
 This repository is a comprehensive guide and resource for packaging Python GUI applications into installable software, specifically for Windows. It is tailored for developers and system administrators who work on converting Python applications into polished executables and distributable installers.
