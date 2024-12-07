@@ -1,6 +1,18 @@
 # Python GUI Installer Toolkit
 
+
+
 This repository is a comprehensive guide and resource for packaging Python GUI applications into installable software, specifically for Windows. It is tailored for developers and system administrators who work on converting Python applications into polished executables and distributable installers.
+
+---
+
+
+## **Tools and Technologies**
+This repository covers the following tools:
+- **[PyInstaller](https://pyinstaller.org/)**: For converting Python scripts into standalone executables.
+- **[cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)**: For creating cross-platform executables.
+- **[Inno Setup](https://jrsoftware.org/isinfo.php)**: For generating professional-grade Windows installers.
+- **[NSIS](https://nsis.sourceforge.io/Main_Page)**: Another option for creating lightweight installers.
 
 ---
 
@@ -9,16 +21,6 @@ This repository is a comprehensive guide and resource for packaging Python GUI a
 - Configuration examples for popular packaging tools like `PyInstaller`, `cx_Freeze`, and `Inno Setup`.
 - Common troubleshooting tips and solutions.
 - Best practices for Python GUI application packaging.
-
----
-
-## **Table of Contents**
-1. [Introduction](#introduction)
-2. [Prerequisites](#prerequisites)
-3. [Tools and Technologies](#tools-and-technologies)
-4. [Packaging Process](#packaging-process)
-5. [Folder Structure](#folder-structure)
-6. [Contributing](#contributing)
 
 ---
 
@@ -32,15 +34,6 @@ Before you begin, ensure you have the following installed:
 - Python 3.8+ (with `pip` and `virtualenv`)
 - A Windows development environment (Windows 10/11 recommended)
 - Admin rights to install packaging tools
-
----
-
-## **Tools and Technologies**
-This repository covers the following tools:
-- **[PyInstaller](https://pyinstaller.org/)**: For converting Python scripts into standalone executables.
-- **[cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)**: For creating cross-platform executables.
-- **[Inno Setup](https://jrsoftware.org/isinfo.php)**: For generating professional-grade Windows installers.
-- **[NSIS](https://nsis.sourceforge.io/Main_Page)**: Another option for creating lightweight installers.
 
 ---
 
