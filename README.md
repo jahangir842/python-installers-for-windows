@@ -1,4 +1,4 @@
-# Creating Installable Executables for Python GUI Applications
+# Creating Windows Installable Executables for Python GUI Applications
 
 This guide focuses on converting Python GUI applications into polished executables and professional installers for Windows, leveraging tools like PyInstaller, cx_Freeze, Inno Setup, and NSIS.
 
